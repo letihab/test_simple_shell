@@ -29,7 +29,7 @@ File | Description
 `4-get_path.c` | Function that Get the path object
 `4.5-get_path_variable.c` | Function that Get the path value object
 `5-cat_file.c` | Function that concat file and path
-`6-exit.c` | 
+`6-exit.c` | Function for exit the shell
 `man_1_simple_shell.swp` | Manual page for the simple_shell
 `simple_shell.c.c` | Funtion that runs the shell program
 
