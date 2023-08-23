@@ -46,7 +46,7 @@ File | Description
 
 ## Execute
    - Run the shell in interactive mode: `./hsh`
-   - Or run the shell in non-interactive mode: `echo "pwd" | ./hsh`
+   - Or run the shell in non-interactive mode: `echo "/bin/ls" | ./hsh`
 
 ## Example
 Run the executable in your terminal after compiling:
