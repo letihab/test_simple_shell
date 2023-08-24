@@ -13,6 +13,7 @@
 * [Execute](#execute)
 * [Example](#example)
 * [Bugs](#bugs)
+* [flowchart](#flowchart)
 * [Authors](#authors)
 
 ## Description
@@ -77,7 +78,13 @@ drwxr-xr-x  8 letihabib letihabib  4096 Aug 23 18:49  .git
 ## Bugs
 There are no known bugs.
 
+## FlowChart
+
+![Complete Flowchart](https://github.com/Scotty-Scott-1/holbertonschool-simple_shell/blob/main/Complete%20FlowChart.jpg?raw=true)
+
 ## Authors
+
+
 [Solomon Williams](https://github.com/:Scotty-Scott-1) | (<swilliamfr@outlook.com>)
 
 [Gael Deschamps](https://github.com/GTDeschamps) | (<g.deschamps@hotmail.com>)
